@@ -1,5 +1,5 @@
 # unwalled-activitypub
-An ActivityPub server that automagically translates between the unwalled.garden spec
+An [ActivityPub](https://activitypub.rocks/) server that automagically translates between the [unwalled.garden](https://unwalled.garden/) spec
 
 ## API
 
